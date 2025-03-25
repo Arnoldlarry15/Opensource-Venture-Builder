@@ -134,3 +134,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+# Solidity and Smart Contract Build Files
+artifacts/
+cache/
+build/
+
+# Specific to blockchain tools (e.g., Hardhat or Truffle)
+*.secret
+*.keystore
+
+# Additional Logs and Debug Files
+logs/
+*.log
