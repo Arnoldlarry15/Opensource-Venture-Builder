@@ -31,9 +31,20 @@ Using smart contracts, the platform ensures secure, milestone-based payments to 
 
 ---
 
-📌 Repository Structure
+📌 **Repository Structure**
 
-/OpenSource-Venture-Builder ├── /docs                # Documentation, whitepaper, roadmap ├── /frontend            # UI/UX (React, Next.js, Tailwind) ├── /backend             # API, authentication, data storage ├── /smart-contracts     # Solidity contracts for payments, milestones ├── /blockchain          # Integration with Ethereum, Polygon, etc. ├── /test                # Unit and integration tests ├── /scripts             # Deployment and automation scripts ├── README.md            # Overview, setup, and contribution guidelines ├── LICENSE              # Open-source license ├── .gitignore           # Ignore unnecessary files ├── CONTRIBUTING.md      # Guidelines for contributors ├── CODE_OF_CONDUCT.md   # Community standards
+- `/docs` – Documentation, whitepaper, roadmap  
+- `/frontend` – UI/UX (React, Next.js, Tailwind)  
+- `/backend` – API, authentication, data storage  
+- `/smart-contracts` – Solidity contracts for payments, milestones  
+- `/blockchain` – Integration with Ethereum, Polygon, etc.  
+- `/test` – Unit and integration tests  
+- `/scripts` – Deployment and automation scripts  
+- `README.md` – Overview, setup, and contribution guidelines  
+- `LICENSE` – Open-source license  
+- `.gitignore` – Ignore unnecessary files  
+- `CONTRIBUTING.md` – Guidelines for contributors  
+- `CODE_OF_CONDUCT.md` – Community standards
 
 
 ---
@@ -115,3 +126,4 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 📧 Email: 
 
 🔥 Let’s build the future of startup funding together! 🚀
+
