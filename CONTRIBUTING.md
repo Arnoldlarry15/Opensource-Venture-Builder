@@ -64,13 +64,13 @@ git commit -m "✨ Added smart contract escrow logic"
 
 Use emoji prefixes for clarity:
 
-✨ :sparkles: → New feature
+:sparkles: → New feature
 
-🐛 :bug: → Bug fix
+:bug: → Bug fix
 
-📝 :memo: → Documentation
+:memo: → Documentation
 
-🎨 :art: → UI improvements
+:art: → UI improvements
 
 
 Keep messages short and descriptive
